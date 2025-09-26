@@ -1,0 +1,154 @@
+# Translation of Plugins - Maintenance - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Maintenance - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-16 19:05:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Maintenance - Stable (latest release)\n"
+
+#: load/functions.php:258
+msgid "Username"
+msgstr "نام‌کاربری"
+
+#: includes/functions.php:208
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: includes/functions.php:237
+msgid "Admin bar"
+msgstr "نوار مدیریت"
+
+#: includes/functions.php:237
+msgid "Show admin bar"
+msgstr "نمایش نوار مدیریت"
+
+#: includes/functions.php:238
+msgid "503"
+msgstr "503"
+
+#: includes/functions.php:238
+msgid "Service temporarily unavailable"
+msgstr "سرویس موقتا در دسترس نیست"
+
+#: includes/functions.php:246
+msgid "Blur intensity"
+msgstr "مقدار تاری"
+
+#: includes/functions.php:252
+msgid "Background blur"
+msgstr "تاری پس زمینه"
+
+#: includes/functions.php:252
+msgid "Apply a blur"
+msgstr "اعمال یک تاری"
+
+#: includes/functions.php:340
+msgid "Background image"
+msgstr "تصویر پس زمینه"
+
+#: includes/functions.php:340
+msgid "Upload Background"
+msgstr "آپلود پس زمینه"
+
+#: includes/functions.php:346
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: includes/functions.php:347
+msgid "Font color"
+msgstr "رنگ فونت"
+
+#: includes/functions.php:362
+msgid "Have any questions?"
+msgstr "سوالی دارید؟"
+
+#: includes/functions.php:409
+msgid "Demo website"
+msgstr "وب سایت نمایشی"
+
+#: includes/functions.php:604
+msgid "Website is under construction"
+msgstr "وب سایت در دست ساخت است"
+
+#: includes/functions.php:605
+msgid "Maintenance mode is on"
+msgstr "حالت تعمیر فعال است"
+
+#: includes/functions.php:606
+msgid "Website will be available soon"
+msgstr "وب سایت به زودی در دسترس خواهد بود"
+
+#: load/functions.php:37
+msgid "Permission access denied!"
+msgstr "اجازه دسترسی ممنوع است!"
+
+#: load/functions.php:45
+msgid "You entered your login are incorrect!"
+msgstr "نام کاربری شما نامعتبر است!"
+
+#: load/functions.php:49
+msgid "You entered your password are incorrect!"
+msgstr "گذر واژه شما نامعتبر است!"
+
+#: load/functions.php:52
+msgid "You entered your login and password are incorrect!"
+msgstr "نام کاربری یا گذر واژه شما نامعتبر است!"
+
+#: load/functions.php:259
+msgid "Password"
+msgstr "گذر واژه"
+
+#. #-#-#-#-#  tmp-maintenance.pot (Maintenance 2.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin.php:73 includes/functions.php:539
+msgid "Maintenance"
+msgstr "تعمیر و نگهداری"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/maintenance/"
+msgstr "http://wordpress.org/plugins/maintenance/"
+
+#. Author of the plugin/theme
+msgid "fruitfulcode"
+msgstr "کد پربار"
+
+#. Author URI of the plugin/theme
+msgid "http://fruitfulcode.com"
+msgstr "http://fruitfulcode.com"
+
+#: includes/admin.php:88
+msgid "Save changes"
+msgstr "ذخیره تغییرات"
+
+#: includes/functions.php:187
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: includes/functions.php:195
+msgid "Pro version"
+msgstr "نسخه حرفه ای"
+
+#: includes/functions.php:229
+msgid "Page title"
+msgstr "عنوان صفحه"
+
+#: includes/functions.php:230
+msgid "Headline"
+msgstr "خط عنوان"
+
+#: includes/functions.php:233
+msgid "Logo"
+msgstr "لوگو"
+
+#: includes/functions.php:233
+msgid "Upload Logo"
+msgstr "آپلود لوگو"
+
+#: includes/functions.php:231
+msgid "Description"
+msgstr "توضیح"

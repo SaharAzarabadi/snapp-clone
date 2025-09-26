@@ -1,0 +1,43 @@
+# ------------------------
+# WordPress Core
+# ------------------------
+wp-admin/
+wp-includes/
+
+# ------------------------
+# Sensitive files
+# ------------------------
+wp-config.php
+.htaccess
+web.config
+
+# ------------------------
+# Uploads (media files)
+# ------------------------
+wp-content/uploads/
+
+# ------------------------
+# Caches and logs
+# ------------------------
+wp-content/cache/
+*.log
+
+# ------------------------
+# Backup & temp files
+# ------------------------
+*.sql
+*.tar.gz
+*.zip
+*.bak
+*.tmp
+*.swp
+
+# ------------------------
+# OS / Editor files
+# ------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
